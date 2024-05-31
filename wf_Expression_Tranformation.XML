@@ -50,7 +50,7 @@
             <TRANSFORMFIELD DATATYPE ="decimal" DEFAULTVALUE ="" DESCRIPTION ="" NAME ="DEPARTMENT_ID" PICTURETEXT ="" PORTTYPE ="INPUT/OUTPUT" PRECISION ="4" SCALE ="0"/>
             <TABLEATTRIBUTE NAME ="Sql Query" VALUE =""/>
             <TABLEATTRIBUTE NAME ="User Defined Join" VALUE =""/>
-            <TABLEATTRIBUTE NAME ="Source Filter" VALUE ="EMPLOYEES.SALARY&lt;200000"/>
+            <TABLEATTRIBUTE NAME ="Source Filter" VALUE ="EMPLOYEES.SALARY&lt;300000"/>
             <TABLEATTRIBUTE NAME ="Number Of Sorted Ports" VALUE ="0"/>
             <TABLEATTRIBUTE NAME ="Tracing Level" VALUE ="Normal"/>
             <TABLEATTRIBUTE NAME ="Select Distinct" VALUE ="NO"/>
